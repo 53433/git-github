@@ -1,0 +1,8 @@
+pipeline{
+agent any
+stage{
+stage('One'){
+steps{
+echo 'Hi this is edureka
+}
+}'
